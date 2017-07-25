@@ -1,0 +1,43 @@
+[Misc]
+AddMirror=0
+AutoWidth=0
+AutoHeight=0
+OriginalWidth=0
+OriginalHeight=0
+AutoScroll=1
+HideControlPanel=0
+HideToolBar=0
+ImageWidth=600
+ImageHeight=300
+PositionInImage=0
+ScrollIncrement=1
+FullScreenLoading=0
+AutoReverse=0
+FullScreenDisplayHeight=0
+FullScreenDisplayDepth=0
+ScrollTimer=10
+ReverseDelay=1500
+ScrollDirection=1
+Orientation=0
+SynchronizeOnFrame=0
+IncrementFromWidth=0
+PosInImageDisplay=0
+StretchFilter=1
+BgColor=0
+SoundFilename=
+SoundEnabled=0
+
+[Author]
+PictureDescriptionE=Jackson Lake, Grand Tetons National Park%(Wyoming, USA)
+PictureDescriptionF=Le lac Jackson, Parc National de Grand Tetons%(Wyoming, Etats-Unis)
+Name=Sébastien Bovard
+E-mail=
+WebSite=http://www.sbovard-photography.ch
+
+[Map]
+Show=1
+Latitude=43.937701
+Longitude=-110.643171
+Type=1
+ZoomLevel=13
+Marker=1
